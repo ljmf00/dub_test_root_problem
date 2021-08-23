@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dub-test-root-problem
+dub-test-root-problem.so
+dub-test-root-problem.dylib
+dub-test-root-problem.dll
+dub-test-root-problem.a
+dub-test-root-problem.lib
+dub-test-root-problem-test-*
+*.exe
+*.o
+*.obj
+*.lst

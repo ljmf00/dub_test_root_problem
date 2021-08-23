@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Luís Ferreira"
+	],
+	"copyright": "Copyright © 2021, Luís Ferreira",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "dub-test-root-problem"
+}
